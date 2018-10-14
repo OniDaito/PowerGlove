@@ -1,4 +1,4 @@
-* Nintendo Powerglove Project
+# Nintendo Powerglove Project
 
 This is a set of Arduino and Teensy based projects for the Nintendo Powerglove. The goal is to create a USB to DB9 connector which converts the NES Controller protocol into a USB device you can use with any PC. To do this I've used a [Teensy](https://www.pjrc.com/teensy/teensyLC.html) board but if you want to use something else Arduino based you can. 
 
